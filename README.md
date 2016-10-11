@@ -1,0 +1,2 @@
+# Fullbox
+Adaptive insights fullbox
